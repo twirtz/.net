@@ -12,7 +12,7 @@ In order to change artists, the parameter exists in the aspx.cs pages at the top
 
 For the API, I used a standard ASP Web API project with Swagger Support. If you run the API, it should load Swagger with the 3 endpoints from 2 controllers, which should allow you to test.
 
-###If Extra Time
+### If Extra Time
 - Experiment with Entities and Mapping for SQL Calls. There is a better way to parse DataRows automatically.
 - Add endpoints to everything that was classified as a hyperlink in the template.
 - Add extra pages to showcase Details Page and API calls (This was not specified as necessary in the prompt, but would be nice if I added a searchbar to the end of the default page.)
